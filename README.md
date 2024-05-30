@@ -1,6 +1,6 @@
 <p align="center">
-<img src=https://media.discordapp.net/attachments/1236572203919867994/1238040745168998451/Untitled713_20240509135131.png?ex=6654e90b&is=6653978b&hm=f68e04cb36670234a58dd513651f3620768d428dabfc982a4604ad5303089051&
+<img src=https://tinyurl.com/4f4hkbtz
 </p>
 <p align="center">
-<samp>"　Bingo,  bingo,  baby  ~　I  love  you  ain't  that  crazy  ?　"</samp>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&pause=10&color=F6B781&center=true&vCenter=true&random=false&width=450&lines=%E3%80%90+%22+Bingo%2C+bingo%2C+baby!+%22+%E3%80%91;%E3%80%90+%22+I+love+you%2C+ain't+that+crazy%3F+%22+%E3%80%91" alt="Typing SVG" /></a>
 </p>
