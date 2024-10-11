@@ -1,6 +1,6 @@
 <p align="center">
-<img src=https://kill-hurt.carrd.co/assets/images/image03.png?v=19ab747a
+<img src=https://file.garden/Zp4r_uAeqTJ1hrAs/Untitled1006_20241011150945.png width="500" height="736" />
 </p>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=500&color=F6B781&center=true&vCenter=true&random=false&width=500&lines=%E3%80%90+%22+Sleep+on%2C+dear+little+child.+.+.+%22+%E3%80%91;%E3%80%90+%22+Day+is+young%2C+%22+%E3%80%91;%E3%80%90+%22+Wish+why+~+%E2%99%A9+%22+%E3%80%91" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Gaegu&size=30&duration=4000&pause=10&color=8A8A8A&center=true&vCenter=true&repeat=false&width=600&lines=Blooming+ever-sweet%2C+the+evil+flower+reaps;Drowning+in+colors+that'll+drive+you+crazy!" alt="Typing SVG" /></a>
 </p>
